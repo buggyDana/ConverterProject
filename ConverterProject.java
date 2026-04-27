@@ -1,9 +1,6 @@
 package expressionconverter;
 
-/**
- *
- * @author ldana
- */
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.Stack;
